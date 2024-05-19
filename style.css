@@ -13,6 +13,7 @@ body {
 
   @media (max-width: 600px) {
     .background1 {
+        background-image: url('backgroundhp1.png');
         height: 30vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
