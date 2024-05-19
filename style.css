@@ -13,7 +13,7 @@ body {
 
   @media (max-width: 600px) {
     .background1 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
   #logo {
@@ -74,7 +74,7 @@ body {
 
   @media (max-width: 600px) {
     .background2 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
   
@@ -88,7 +88,7 @@ body {
   
   @media (max-width: 600px) {
     .background22 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
   
@@ -102,7 +102,7 @@ body {
   
   @media (max-width: 600px) {
     .background3 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
   
@@ -117,7 +117,7 @@ body {
   
   @media (max-width: 600px) {
     .background33 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
 
@@ -131,7 +131,7 @@ body {
   
   @media (max-width: 600px) {
     .background4 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
   
@@ -146,7 +146,7 @@ body {
   
   @media (max-width: 600px) {
     .background44 {
-        height: 50vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
+        height: 40vh; /* Tinggi 30% dari viewport height untuk tampilan ponsel */
     }
 }
 
